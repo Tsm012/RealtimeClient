@@ -1,0 +1,21 @@
+# ninja log v5
+1	52	7403109172480168	ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir	9169b339e7c8199f
+1	52	7403109172480168	C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir	9169b339e7c8199f
+53	3918	7403109211117178	ds-populate-prefix/src/ds-populate-stamp/ds-populate-download	bcfea9dff08a7c40
+53	3918	7403109211117178	C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-download	bcfea9dff08a7c40
+3918	5488	0	ds-populate-prefix/src/ds-populate-stamp/ds-populate-update	3aa0bce0e65e120b
+3918	5488	0	C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-update	3aa0bce0e65e120b
+5488	5535	7403109227306565	ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch	e571e56c5bfa646c
+5488	5535	7403109227306565	C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch	e571e56c5bfa646c
+5535	5582	7403109227753626	ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure	65a707f49c4eec01
+5535	5582	7403109227753626	C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure	65a707f49c4eec01
+5582	5627	7403109228222429	ds-populate-prefix/src/ds-populate-stamp/ds-populate-build	364a9ba07fc2148b
+5582	5627	7403109228222429	C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-build	364a9ba07fc2148b
+5627	5673	7403109228674385	ds-populate-prefix/src/ds-populate-stamp/ds-populate-install	840f3c949d6aef37
+5627	5673	7403109228674385	C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-install	840f3c949d6aef37
+5673	5721	7403109229154739	ds-populate-prefix/src/ds-populate-stamp/ds-populate-test	16d2e9cca0c9b652
+5673	5721	7403109229154739	C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-test	16d2e9cca0c9b652
+5721	5783	7403109229778032	CMakeFiles/ds-populate-complete	9f67e315f8ede415
+5721	5783	7403109229778032	ds-populate-prefix/src/ds-populate-stamp/ds-populate-done	9f67e315f8ede415
+5721	5783	7403109229778032	C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate-complete	9f67e315f8ede415
+5721	5783	7403109229778032	C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-done	9f67e315f8ede415

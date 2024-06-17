@@ -1,0 +1,13 @@
+--bare
+-I
+C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/qml
+-I
+C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/qml
+-I
+C:/Qt/6.7.1/msvc2019_64/./qml
+--resource
+C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/content/.qt/rcc/qmake_content.qrc
+--resource
+C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/content/.qt/rcc/content_raw_qml_0.qrc
+C:/Users/Shantz/Documents/RealtimeClient/content/App.qml
+C:/Users/Shantz/Documents/RealtimeClient/content/Screen01.ui.qml
