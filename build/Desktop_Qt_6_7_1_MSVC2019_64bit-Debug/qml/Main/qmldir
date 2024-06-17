@@ -1,4 +1,0 @@
-module Main
-typeinfo RealtimeClientApp.qmltypes
-prefer :/qt/qml/Main/
-

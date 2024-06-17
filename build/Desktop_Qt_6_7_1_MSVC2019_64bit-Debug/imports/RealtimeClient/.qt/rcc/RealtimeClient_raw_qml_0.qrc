@@ -1,9 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/RealtimeClient/">
-    <file alias="Constants.qml">C:/Users/Shantz/Documents/RealtimeClient/imports/RealtimeClient/Constants.qml</file>
-    <file alias="DirectoryFontLoader.qml">C:/Users/Shantz/Documents/RealtimeClient/imports/RealtimeClient/DirectoryFontLoader.qml</file>
-    <file alias="EventListModel.qml">C:/Users/Shantz/Documents/RealtimeClient/imports/RealtimeClient/EventListModel.qml</file>
-    <file alias="EventListSimulator.qml">C:/Users/Shantz/Documents/RealtimeClient/imports/RealtimeClient/EventListSimulator.qml</file>
-  </qresource>
-</RCC>
-

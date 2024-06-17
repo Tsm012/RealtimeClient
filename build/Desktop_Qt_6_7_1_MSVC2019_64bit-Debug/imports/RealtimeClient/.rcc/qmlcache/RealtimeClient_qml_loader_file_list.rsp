@@ -1,8 +1,0 @@
---resource
-C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/imports/RealtimeClient/.qt/rcc/qmake_RealtimeClient.qrc
---resource
-C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/imports/RealtimeClient/.qt/rcc/RealtimeClient_raw_qml_0.qrc
-/qt/qml/RealtimeClient/Constants.qml
-/qt/qml/RealtimeClient/DirectoryFontLoader.qml
-/qt/qml/RealtimeClient/EventListModel.qml
-/qt/qml/RealtimeClient/EventListSimulator.qml
