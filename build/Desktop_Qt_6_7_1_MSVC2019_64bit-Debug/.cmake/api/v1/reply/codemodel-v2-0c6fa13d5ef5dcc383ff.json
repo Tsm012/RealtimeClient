@@ -1,0 +1,1850 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						14,
+						15
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6310264ac0b8d8259081.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						127,
+						128,
+						129,
+						130,
+						131,
+						132,
+						133,
+						134,
+						135
+					]
+				},
+				{
+					"build" : "_deps/ds-build",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-_deps.ds-build-Debug-8cf9aba83605a8978a32.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-src"
+				},
+				{
+					"build" : "_deps/ds-build/src",
+					"childIndexes" : 
+					[
+						3
+					],
+					"jsonFile" : "directory-_deps.ds-build.src-Debug-2885317900c4e5cd4421.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-src/src"
+				},
+				{
+					"build" : "_deps/ds-build/src/imports",
+					"childIndexes" : 
+					[
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						12,
+						13
+					],
+					"jsonFile" : "directory-_deps.ds-build.src.imports-Debug-cd6bb0049c6fb0abf7e1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-src/src/imports"
+				},
+				{
+					"build" : "_deps/ds-build/src/imports/components",
+					"jsonFile" : "directory-_deps.ds-build.src.imports.components-Debug-dc3159e453062ece86e9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-src/src/imports/components",
+					"targetIndexes" : 
+					[
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						151,
+						152,
+						153,
+						154
+					]
+				},
+				{
+					"build" : "_deps/ds-build/src/imports/effects_qt6",
+					"jsonFile" : "directory-_deps.ds-build.src.imports.effects_qt6-Debug-67ec17adbb406bc9f5bc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-src/src/imports/effects_qt6",
+					"targetIndexes" : 
+					[
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54
+					]
+				},
+				{
+					"build" : "_deps/ds-build/src/imports/flowview",
+					"jsonFile" : "directory-_deps.ds-build.src.imports.flowview-Debug-dc2a082c9904ebbff97d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-src/src/imports/flowview",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				},
+				{
+					"build" : "_deps/ds-build/src/imports/logichelper",
+					"jsonFile" : "directory-_deps.ds-build.src.imports.logichelper-Debug-2d1a97c1ec93fd6bfb80.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-src/src/imports/logichelper",
+					"targetIndexes" : 
+					[
+						81,
+						82,
+						83,
+						84,
+						85,
+						86,
+						87,
+						88,
+						89,
+						90,
+						91,
+						92,
+						93,
+						94,
+						95,
+						96
+					]
+				},
+				{
+					"build" : "_deps/ds-build/src/imports/multitext",
+					"jsonFile" : "directory-_deps.ds-build.src.imports.multitext-Debug-fe88e6a4a4dec1c5a247.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-src/src/imports/multitext",
+					"targetIndexes" : 
+					[
+						97,
+						98,
+						99,
+						100,
+						101,
+						102,
+						103,
+						104,
+						105,
+						106,
+						107,
+						108,
+						109
+					]
+				},
+				{
+					"build" : "_deps/ds-build/src/imports/tools",
+					"childIndexes" : 
+					[
+						10,
+						11
+					],
+					"jsonFile" : "directory-_deps.ds-build.src.imports.tools-Debug-42314a2a9856fff2ae30.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-src/src/imports/tools"
+				},
+				{
+					"build" : "_deps/ds-build/src/imports/tools/eventsimulator",
+					"jsonFile" : "directory-_deps.ds-build.src.imports.tools.eventsimulator-Debug-96ad77831e3aacdca24f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-src/src/imports/tools/eventsimulator",
+					"targetIndexes" : 
+					[
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67
+					]
+				},
+				{
+					"build" : "_deps/ds-build/src/imports/tools/eventsystem",
+					"jsonFile" : "directory-_deps.ds-build.src.imports.tools.eventsystem-Debug-46f13f1ce8ec35e3b8e2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-src/src/imports/tools/eventsystem",
+					"targetIndexes" : 
+					[
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75,
+						76,
+						77,
+						78,
+						79,
+						80
+					]
+				},
+				{
+					"build" : "_deps/ds-build/src/imports/application",
+					"jsonFile" : "directory-_deps.ds-build.src.imports.application-Debug-efa753ab57454d26a4f4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-src/src/imports/application",
+					"targetIndexes" : 
+					[
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25
+					]
+				},
+				{
+					"build" : "_deps/ds-build/src/imports/utils",
+					"jsonFile" : "directory-_deps.ds-build.src.imports.utils-Debug-9ef5ba80cac4695ec1b7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/_deps/ds-src/src/imports/utils",
+					"targetIndexes" : 
+					[
+						110,
+						111,
+						112,
+						113,
+						114,
+						115,
+						116,
+						117,
+						118,
+						119,
+						120,
+						121,
+						122,
+						123,
+						124,
+						125
+					]
+				},
+				{
+					"build" : "content",
+					"jsonFile" : "directory-content-Debug-c4a8907fd9b0c941fc19.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "content",
+					"targetIndexes" : 
+					[
+						155,
+						156,
+						157,
+						158,
+						159,
+						160,
+						161,
+						162,
+						163,
+						164,
+						165,
+						166,
+						167,
+						168,
+						169,
+						170
+					]
+				},
+				{
+					"build" : "imports",
+					"childIndexes" : 
+					[
+						16
+					],
+					"jsonFile" : "directory-imports-Debug-14abf60cb0196d8893be.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "imports"
+				},
+				{
+					"build" : "imports/RealtimeClient",
+					"jsonFile" : "directory-imports.RealtimeClient-Debug-b59d518747fa255d4c4f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 15,
+					"projectIndex" : 0,
+					"source" : "imports/RealtimeClient",
+					"targetIndexes" : 
+					[
+						126,
+						136,
+						137,
+						138,
+						139,
+						140,
+						141,
+						142,
+						143,
+						144,
+						145,
+						146,
+						147,
+						148,
+						149,
+						150
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					],
+					"name" : "RealtimeClientApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75,
+						76,
+						77,
+						78,
+						79,
+						80,
+						81,
+						82,
+						83,
+						84,
+						85,
+						86,
+						87,
+						88,
+						89,
+						90,
+						91,
+						92,
+						93,
+						94,
+						95,
+						96,
+						97,
+						98,
+						99,
+						100,
+						101,
+						102,
+						103,
+						104,
+						105,
+						106,
+						107,
+						108,
+						109,
+						110,
+						111,
+						112,
+						113,
+						114,
+						115,
+						116,
+						117,
+						118,
+						119,
+						120,
+						121,
+						122,
+						123,
+						124,
+						125,
+						126,
+						127,
+						128,
+						129,
+						130,
+						131,
+						132,
+						133,
+						134,
+						135,
+						136,
+						137,
+						138,
+						139,
+						140,
+						141,
+						142,
+						143,
+						144,
+						145,
+						146,
+						147,
+						148,
+						149,
+						150,
+						151,
+						152,
+						153,
+						154,
+						155,
+						156,
+						157,
+						158,
+						159,
+						160,
+						161,
+						162,
+						163,
+						164,
+						165,
+						166,
+						167,
+						168,
+						169,
+						170
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 6,
+					"id" : "FlowView::@f99fd1e4b9fa497fd232",
+					"jsonFile" : "target-FlowView-Debug-be7e732027e95dba2a02.json",
+					"name" : "FlowView",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "FlowView_autogen::@f99fd1e4b9fa497fd232",
+					"jsonFile" : "target-FlowView_autogen-Debug-79d7ebb3079881922688.json",
+					"name" : "FlowView_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "FlowView_autogen_timestamp_deps::@f99fd1e4b9fa497fd232",
+					"jsonFile" : "target-FlowView_autogen_timestamp_deps-Debug-522bfe75f8967e5bea94.json",
+					"name" : "FlowView_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "FlowView_qmltyperegistration::@f99fd1e4b9fa497fd232",
+					"jsonFile" : "target-FlowView_qmltyperegistration-Debug-3bd4bae74aece1fb7969.json",
+					"name" : "FlowView_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "FlowView_resources_1::@f99fd1e4b9fa497fd232",
+					"jsonFile" : "target-FlowView_resources_1-Debug-fd9172d3b1aed256f560.json",
+					"name" : "FlowView_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "FlowView_tooling::@f99fd1e4b9fa497fd232",
+					"jsonFile" : "target-FlowView_tooling-Debug-d54a2879a1530f50c030.json",
+					"name" : "FlowView_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "FlowViewplugin::@f99fd1e4b9fa497fd232",
+					"jsonFile" : "target-FlowViewplugin-Debug-28fa529a7b3ffc7e8c51.json",
+					"name" : "FlowViewplugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "FlowViewplugin_autogen::@f99fd1e4b9fa497fd232",
+					"jsonFile" : "target-FlowViewplugin_autogen-Debug-3a017f5755087b0ec573.json",
+					"name" : "FlowViewplugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "FlowViewplugin_autogen_timestamp_deps::@f99fd1e4b9fa497fd232",
+					"jsonFile" : "target-FlowViewplugin_autogen_timestamp_deps-Debug-9601ac396171d7f5694a.json",
+					"name" : "FlowViewplugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "FlowViewplugin_init::@f99fd1e4b9fa497fd232",
+					"jsonFile" : "target-FlowViewplugin_init-Debug-dab8e52c6fcd79dfcb6a.json",
+					"name" : "FlowViewplugin_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "FlowViewplugin_init_autogen::@f99fd1e4b9fa497fd232",
+					"jsonFile" : "target-FlowViewplugin_init_autogen-Debug-d0b3298d902105662326.json",
+					"name" : "FlowViewplugin_init_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "FlowViewplugin_init_autogen_timestamp_deps::@f99fd1e4b9fa497fd232",
+					"jsonFile" : "target-FlowViewplugin_init_autogen_timestamp_deps-Debug-9ca07981e97f38ee7cc7.json",
+					"name" : "FlowViewplugin_init_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "QuickStudioApplication::@a324641c06033e250fc2",
+					"jsonFile" : "target-QuickStudioApplication-Debug-8dc1fbc71733f3b10cd1.json",
+					"name" : "QuickStudioApplication",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "QuickStudioApplication_autogen::@a324641c06033e250fc2",
+					"jsonFile" : "target-QuickStudioApplication_autogen-Debug-eae2bca8d1a7ff0b4f2f.json",
+					"name" : "QuickStudioApplication_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "QuickStudioApplication_autogen_timestamp_deps::@a324641c06033e250fc2",
+					"jsonFile" : "target-QuickStudioApplication_autogen_timestamp_deps-Debug-1e36856631e597e74f53.json",
+					"name" : "QuickStudioApplication_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "QuickStudioApplication_qmllint::@a324641c06033e250fc2",
+					"jsonFile" : "target-QuickStudioApplication_qmllint-Debug-670bd2ac9d2a5eb5064e.json",
+					"name" : "QuickStudioApplication_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "QuickStudioApplication_qmllint_json::@a324641c06033e250fc2",
+					"jsonFile" : "target-QuickStudioApplication_qmllint_json-Debug-d2db46340738fd98a191.json",
+					"name" : "QuickStudioApplication_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "QuickStudioApplication_qmllint_module::@a324641c06033e250fc2",
+					"jsonFile" : "target-QuickStudioApplication_qmllint_module-Debug-799d201baeb84e554958.json",
+					"name" : "QuickStudioApplication_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "QuickStudioApplication_qmltyperegistration::@a324641c06033e250fc2",
+					"jsonFile" : "target-QuickStudioApplication_qmltyperegistration-Debug-2ac775569e99e5978c67.json",
+					"name" : "QuickStudioApplication_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "QuickStudioApplication_resources_1::@a324641c06033e250fc2",
+					"jsonFile" : "target-QuickStudioApplication_resources_1-Debug-de839900d9916e3f506f.json",
+					"name" : "QuickStudioApplication_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "QuickStudioApplicationplugin::@a324641c06033e250fc2",
+					"jsonFile" : "target-QuickStudioApplicationplugin-Debug-539df3fbcf3804198356.json",
+					"name" : "QuickStudioApplicationplugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "QuickStudioApplicationplugin_autogen::@a324641c06033e250fc2",
+					"jsonFile" : "target-QuickStudioApplicationplugin_autogen-Debug-6535f2f3f2d337b53fed.json",
+					"name" : "QuickStudioApplicationplugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "QuickStudioApplicationplugin_autogen_timestamp_deps::@a324641c06033e250fc2",
+					"jsonFile" : "target-QuickStudioApplicationplugin_autogen_timestamp_deps-Debug-7ac1efce2f87428d97d6.json",
+					"name" : "QuickStudioApplicationplugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "QuickStudioApplicationplugin_init::@a324641c06033e250fc2",
+					"jsonFile" : "target-QuickStudioApplicationplugin_init-Debug-ba4d49456d4032b0150c.json",
+					"name" : "QuickStudioApplicationplugin_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "QuickStudioApplicationplugin_init_autogen::@a324641c06033e250fc2",
+					"jsonFile" : "target-QuickStudioApplicationplugin_init_autogen-Debug-51f11c424475e96eb906.json",
+					"name" : "QuickStudioApplicationplugin_init_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "QuickStudioApplicationplugin_init_autogen_timestamp_deps::@a324641c06033e250fc2",
+					"jsonFile" : "target-QuickStudioApplicationplugin_init_autogen_timestamp_deps-Debug-7dad0078f01888a4524e.json",
+					"name" : "QuickStudioApplicationplugin_init_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "QuickStudioComponents::@b8ea75ca72e9d0096cda",
+					"jsonFile" : "target-QuickStudioComponents-Debug-d050b4a444bb9ae4b8ac.json",
+					"name" : "QuickStudioComponents",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "QuickStudioComponents_autogen::@b8ea75ca72e9d0096cda",
+					"jsonFile" : "target-QuickStudioComponents_autogen-Debug-c486f92e41cb5a70d5ce.json",
+					"name" : "QuickStudioComponents_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "QuickStudioComponents_autogen_timestamp_deps::@b8ea75ca72e9d0096cda",
+					"jsonFile" : "target-QuickStudioComponents_autogen_timestamp_deps-Debug-4616a8b934214816200c.json",
+					"name" : "QuickStudioComponents_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "QuickStudioComponents_qmllint::@b8ea75ca72e9d0096cda",
+					"jsonFile" : "target-QuickStudioComponents_qmllint-Debug-bf2c543717157990d07b.json",
+					"name" : "QuickStudioComponents_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "QuickStudioComponents_qmllint_json::@b8ea75ca72e9d0096cda",
+					"jsonFile" : "target-QuickStudioComponents_qmllint_json-Debug-4df718f768512357aee9.json",
+					"name" : "QuickStudioComponents_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "QuickStudioComponents_qmllint_module::@b8ea75ca72e9d0096cda",
+					"jsonFile" : "target-QuickStudioComponents_qmllint_module-Debug-acfa925ade2ec9aafb34.json",
+					"name" : "QuickStudioComponents_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "QuickStudioComponents_qmltyperegistration::@b8ea75ca72e9d0096cda",
+					"jsonFile" : "target-QuickStudioComponents_qmltyperegistration-Debug-f52ed3fa5f9c08294c73.json",
+					"name" : "QuickStudioComponents_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "QuickStudioComponents_resources_1::@b8ea75ca72e9d0096cda",
+					"jsonFile" : "target-QuickStudioComponents_resources_1-Debug-7d4667afafdea67c894b.json",
+					"name" : "QuickStudioComponents_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "QuickStudioComponents_resources_2::@b8ea75ca72e9d0096cda",
+					"jsonFile" : "target-QuickStudioComponents_resources_2-Debug-c4df33864df6d683fd3e.json",
+					"name" : "QuickStudioComponents_resources_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "QuickStudioComponents_tooling::@b8ea75ca72e9d0096cda",
+					"jsonFile" : "target-QuickStudioComponents_tooling-Debug-bb6312b2fcb7c5cf698f.json",
+					"name" : "QuickStudioComponents_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "QuickStudioComponentsplugin::@b8ea75ca72e9d0096cda",
+					"jsonFile" : "target-QuickStudioComponentsplugin-Debug-86463f3e337b98ca5c53.json",
+					"name" : "QuickStudioComponentsplugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "QuickStudioComponentsplugin_autogen::@b8ea75ca72e9d0096cda",
+					"jsonFile" : "target-QuickStudioComponentsplugin_autogen-Debug-31860a3dc6b2aeacb617.json",
+					"name" : "QuickStudioComponentsplugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "QuickStudioComponentsplugin_autogen_timestamp_deps::@b8ea75ca72e9d0096cda",
+					"jsonFile" : "target-QuickStudioComponentsplugin_autogen_timestamp_deps-Debug-28a64f9f37647939ed3e.json",
+					"name" : "QuickStudioComponentsplugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "QuickStudioComponentsplugin_init::@b8ea75ca72e9d0096cda",
+					"jsonFile" : "target-QuickStudioComponentsplugin_init-Debug-53651f975968895a2afb.json",
+					"name" : "QuickStudioComponentsplugin_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "QuickStudioComponentsplugin_init_autogen::@b8ea75ca72e9d0096cda",
+					"jsonFile" : "target-QuickStudioComponentsplugin_init_autogen-Debug-7d80e9fc2a757ff75ea9.json",
+					"name" : "QuickStudioComponentsplugin_init_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "QuickStudioComponentsplugin_init_autogen_timestamp_deps::@b8ea75ca72e9d0096cda",
+					"jsonFile" : "target-QuickStudioComponentsplugin_init_autogen_timestamp_deps-Debug-59dfb5d8f57034b3b52a.json",
+					"name" : "QuickStudioComponentsplugin_init_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "QuickStudioEffects::@981cd0cfbc19161bec24",
+					"jsonFile" : "target-QuickStudioEffects-Debug-661cc36e78ee9545242a.json",
+					"name" : "QuickStudioEffects",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "QuickStudioEffects_autogen::@981cd0cfbc19161bec24",
+					"jsonFile" : "target-QuickStudioEffects_autogen-Debug-50e676db1a6ace62fc56.json",
+					"name" : "QuickStudioEffects_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "QuickStudioEffects_autogen_timestamp_deps::@981cd0cfbc19161bec24",
+					"jsonFile" : "target-QuickStudioEffects_autogen_timestamp_deps-Debug-1112949a7b5a2d6b613a.json",
+					"name" : "QuickStudioEffects_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "QuickStudioEffects_qmltyperegistration::@981cd0cfbc19161bec24",
+					"jsonFile" : "target-QuickStudioEffects_qmltyperegistration-Debug-6fd48144119b8fc91539.json",
+					"name" : "QuickStudioEffects_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "QuickStudioEffects_resources_1::@981cd0cfbc19161bec24",
+					"jsonFile" : "target-QuickStudioEffects_resources_1-Debug-edd2af5f748e0915d8e7.json",
+					"name" : "QuickStudioEffects_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "QuickStudioEffects_resources_2::@981cd0cfbc19161bec24",
+					"jsonFile" : "target-QuickStudioEffects_resources_2-Debug-6239e9bfe2844d9e64c1.json",
+					"name" : "QuickStudioEffects_resources_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "QuickStudioEffects_tooling::@981cd0cfbc19161bec24",
+					"jsonFile" : "target-QuickStudioEffects_tooling-Debug-23e2cdfdc139e2e93a81.json",
+					"name" : "QuickStudioEffects_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "QuickStudioEffectsplugin::@981cd0cfbc19161bec24",
+					"jsonFile" : "target-QuickStudioEffectsplugin-Debug-ab67111900f86e00eab4.json",
+					"name" : "QuickStudioEffectsplugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "QuickStudioEffectsplugin_autogen::@981cd0cfbc19161bec24",
+					"jsonFile" : "target-QuickStudioEffectsplugin_autogen-Debug-0efe6d30e81b212bb43a.json",
+					"name" : "QuickStudioEffectsplugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "QuickStudioEffectsplugin_autogen_timestamp_deps::@981cd0cfbc19161bec24",
+					"jsonFile" : "target-QuickStudioEffectsplugin_autogen_timestamp_deps-Debug-d8ec681922f0604f9a0e.json",
+					"name" : "QuickStudioEffectsplugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "QuickStudioEffectsplugin_init::@981cd0cfbc19161bec24",
+					"jsonFile" : "target-QuickStudioEffectsplugin_init-Debug-2f1acae460970b620a8f.json",
+					"name" : "QuickStudioEffectsplugin_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "QuickStudioEffectsplugin_init_autogen::@981cd0cfbc19161bec24",
+					"jsonFile" : "target-QuickStudioEffectsplugin_init_autogen-Debug-5f235621af30781b4b8d.json",
+					"name" : "QuickStudioEffectsplugin_init_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "QuickStudioEffectsplugin_init_autogen_timestamp_deps::@981cd0cfbc19161bec24",
+					"jsonFile" : "target-QuickStudioEffectsplugin_init_autogen_timestamp_deps-Debug-57a6729d55ca6e3afd72.json",
+					"name" : "QuickStudioEffectsplugin_init_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "QuickStudioEventSimulator::@639cba86296065e16922",
+					"jsonFile" : "target-QuickStudioEventSimulator-Debug-72f3a6c43f495aed47ef.json",
+					"name" : "QuickStudioEventSimulator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "QuickStudioEventSimulator_autogen::@639cba86296065e16922",
+					"jsonFile" : "target-QuickStudioEventSimulator_autogen-Debug-a999844264d97d0789e5.json",
+					"name" : "QuickStudioEventSimulator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "QuickStudioEventSimulator_autogen_timestamp_deps::@639cba86296065e16922",
+					"jsonFile" : "target-QuickStudioEventSimulator_autogen_timestamp_deps-Debug-57426ae1dee511a8896b.json",
+					"name" : "QuickStudioEventSimulator_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "QuickStudioEventSimulator_qmltyperegistration::@639cba86296065e16922",
+					"jsonFile" : "target-QuickStudioEventSimulator_qmltyperegistration-Debug-9691dc83fb26b004d528.json",
+					"name" : "QuickStudioEventSimulator_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "QuickStudioEventSimulator_resources_1::@639cba86296065e16922",
+					"jsonFile" : "target-QuickStudioEventSimulator_resources_1-Debug-fa98ded0a131ee95ceb8.json",
+					"name" : "QuickStudioEventSimulator_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "QuickStudioEventSimulator_resources_2::@639cba86296065e16922",
+					"jsonFile" : "target-QuickStudioEventSimulator_resources_2-Debug-6ab2148eaca635c58ce8.json",
+					"name" : "QuickStudioEventSimulator_resources_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "QuickStudioEventSimulator_tooling::@639cba86296065e16922",
+					"jsonFile" : "target-QuickStudioEventSimulator_tooling-Debug-6b932f16659e415e9136.json",
+					"name" : "QuickStudioEventSimulator_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "QuickStudioEventSimulatorplugin::@639cba86296065e16922",
+					"jsonFile" : "target-QuickStudioEventSimulatorplugin-Debug-ff928b180ce6d3b9d079.json",
+					"name" : "QuickStudioEventSimulatorplugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "QuickStudioEventSimulatorplugin_autogen::@639cba86296065e16922",
+					"jsonFile" : "target-QuickStudioEventSimulatorplugin_autogen-Debug-484fd581f216f339b152.json",
+					"name" : "QuickStudioEventSimulatorplugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "QuickStudioEventSimulatorplugin_autogen_timestamp_deps::@639cba86296065e16922",
+					"jsonFile" : "target-QuickStudioEventSimulatorplugin_autogen_timestamp_deps-Debug-d2434da5115410e0ce36.json",
+					"name" : "QuickStudioEventSimulatorplugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "QuickStudioEventSimulatorplugin_init::@639cba86296065e16922",
+					"jsonFile" : "target-QuickStudioEventSimulatorplugin_init-Debug-d89ae61b0f1a7dbcc8e0.json",
+					"name" : "QuickStudioEventSimulatorplugin_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "QuickStudioEventSimulatorplugin_init_autogen::@639cba86296065e16922",
+					"jsonFile" : "target-QuickStudioEventSimulatorplugin_init_autogen-Debug-2b91ae6c3dbbc1732eab.json",
+					"name" : "QuickStudioEventSimulatorplugin_init_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "QuickStudioEventSimulatorplugin_init_autogen_timestamp_deps::@639cba86296065e16922",
+					"jsonFile" : "target-QuickStudioEventSimulatorplugin_init_autogen_timestamp_deps-Debug-6d5504f039235d1641a9.json",
+					"name" : "QuickStudioEventSimulatorplugin_init_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "QuickStudioEventSystem::@c931a55b2364f386d7db",
+					"jsonFile" : "target-QuickStudioEventSystem-Debug-5c26d7fc7eb23395824f.json",
+					"name" : "QuickStudioEventSystem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "QuickStudioEventSystem_autogen::@c931a55b2364f386d7db",
+					"jsonFile" : "target-QuickStudioEventSystem_autogen-Debug-5d78eb2ef7245e0978d0.json",
+					"name" : "QuickStudioEventSystem_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "QuickStudioEventSystem_autogen_timestamp_deps::@c931a55b2364f386d7db",
+					"jsonFile" : "target-QuickStudioEventSystem_autogen_timestamp_deps-Debug-3d6e22e1a3c5b8508017.json",
+					"name" : "QuickStudioEventSystem_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "QuickStudioEventSystem_qmltyperegistration::@c931a55b2364f386d7db",
+					"jsonFile" : "target-QuickStudioEventSystem_qmltyperegistration-Debug-9dbfced91062e08a75d1.json",
+					"name" : "QuickStudioEventSystem_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "QuickStudioEventSystem_resources_1::@c931a55b2364f386d7db",
+					"jsonFile" : "target-QuickStudioEventSystem_resources_1-Debug-075835e1c8e62b60d055.json",
+					"name" : "QuickStudioEventSystem_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "QuickStudioEventSystem_resources_2::@c931a55b2364f386d7db",
+					"jsonFile" : "target-QuickStudioEventSystem_resources_2-Debug-d027ad7cc57d223cee73.json",
+					"name" : "QuickStudioEventSystem_resources_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "QuickStudioEventSystem_tooling::@c931a55b2364f386d7db",
+					"jsonFile" : "target-QuickStudioEventSystem_tooling-Debug-b4fdc64262fb27cbaa72.json",
+					"name" : "QuickStudioEventSystem_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "QuickStudioEventSystemplugin::@c931a55b2364f386d7db",
+					"jsonFile" : "target-QuickStudioEventSystemplugin-Debug-3e0a8e179422f675d87a.json",
+					"name" : "QuickStudioEventSystemplugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "QuickStudioEventSystemplugin_autogen::@c931a55b2364f386d7db",
+					"jsonFile" : "target-QuickStudioEventSystemplugin_autogen-Debug-0177e834320976625448.json",
+					"name" : "QuickStudioEventSystemplugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "QuickStudioEventSystemplugin_autogen_timestamp_deps::@c931a55b2364f386d7db",
+					"jsonFile" : "target-QuickStudioEventSystemplugin_autogen_timestamp_deps-Debug-1e78d3f5473bfe4f70aa.json",
+					"name" : "QuickStudioEventSystemplugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "QuickStudioEventSystemplugin_init::@c931a55b2364f386d7db",
+					"jsonFile" : "target-QuickStudioEventSystemplugin_init-Debug-ea57463d97de1a1bdb3b.json",
+					"name" : "QuickStudioEventSystemplugin_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "QuickStudioEventSystemplugin_init_autogen::@c931a55b2364f386d7db",
+					"jsonFile" : "target-QuickStudioEventSystemplugin_init_autogen-Debug-ca477e4558c056485f2a.json",
+					"name" : "QuickStudioEventSystemplugin_init_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "QuickStudioEventSystemplugin_init_autogen_timestamp_deps::@c931a55b2364f386d7db",
+					"jsonFile" : "target-QuickStudioEventSystemplugin_init_autogen_timestamp_deps-Debug-9a2f28c38e59223f45d9.json",
+					"name" : "QuickStudioEventSystemplugin_init_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "QuickStudioLogicHelper::@a133c4daf6f4e56b78b8",
+					"jsonFile" : "target-QuickStudioLogicHelper-Debug-69d383f7dea696281381.json",
+					"name" : "QuickStudioLogicHelper",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "QuickStudioLogicHelper_autogen::@a133c4daf6f4e56b78b8",
+					"jsonFile" : "target-QuickStudioLogicHelper_autogen-Debug-e7743fcbd23795b00133.json",
+					"name" : "QuickStudioLogicHelper_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "QuickStudioLogicHelper_autogen_timestamp_deps::@a133c4daf6f4e56b78b8",
+					"jsonFile" : "target-QuickStudioLogicHelper_autogen_timestamp_deps-Debug-838314e0aa82a7e38ea4.json",
+					"name" : "QuickStudioLogicHelper_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "QuickStudioLogicHelper_qmllint::@a133c4daf6f4e56b78b8",
+					"jsonFile" : "target-QuickStudioLogicHelper_qmllint-Debug-ec63180e64c281d351f6.json",
+					"name" : "QuickStudioLogicHelper_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "QuickStudioLogicHelper_qmllint_json::@a133c4daf6f4e56b78b8",
+					"jsonFile" : "target-QuickStudioLogicHelper_qmllint_json-Debug-481abe55e75caacd1421.json",
+					"name" : "QuickStudioLogicHelper_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "QuickStudioLogicHelper_qmllint_module::@a133c4daf6f4e56b78b8",
+					"jsonFile" : "target-QuickStudioLogicHelper_qmllint_module-Debug-f3427f2f00fdc61fe2a3.json",
+					"name" : "QuickStudioLogicHelper_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "QuickStudioLogicHelper_qmltyperegistration::@a133c4daf6f4e56b78b8",
+					"jsonFile" : "target-QuickStudioLogicHelper_qmltyperegistration-Debug-6f5dbaf9a348ee5e9177.json",
+					"name" : "QuickStudioLogicHelper_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "QuickStudioLogicHelper_resources_1::@a133c4daf6f4e56b78b8",
+					"jsonFile" : "target-QuickStudioLogicHelper_resources_1-Debug-63ad488f036c9b635ac5.json",
+					"name" : "QuickStudioLogicHelper_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "QuickStudioLogicHelper_resources_2::@a133c4daf6f4e56b78b8",
+					"jsonFile" : "target-QuickStudioLogicHelper_resources_2-Debug-7315cedf00763bf3639c.json",
+					"name" : "QuickStudioLogicHelper_resources_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "QuickStudioLogicHelper_tooling::@a133c4daf6f4e56b78b8",
+					"jsonFile" : "target-QuickStudioLogicHelper_tooling-Debug-70fc3c7d4740f7ac54ea.json",
+					"name" : "QuickStudioLogicHelper_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "QuickStudioLogicHelperplugin::@a133c4daf6f4e56b78b8",
+					"jsonFile" : "target-QuickStudioLogicHelperplugin-Debug-2919927288b2d342547f.json",
+					"name" : "QuickStudioLogicHelperplugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "QuickStudioLogicHelperplugin_autogen::@a133c4daf6f4e56b78b8",
+					"jsonFile" : "target-QuickStudioLogicHelperplugin_autogen-Debug-36ab4398a550b7327752.json",
+					"name" : "QuickStudioLogicHelperplugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "QuickStudioLogicHelperplugin_autogen_timestamp_deps::@a133c4daf6f4e56b78b8",
+					"jsonFile" : "target-QuickStudioLogicHelperplugin_autogen_timestamp_deps-Debug-273fd88fbf64de1aec92.json",
+					"name" : "QuickStudioLogicHelperplugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "QuickStudioLogicHelperplugin_init::@a133c4daf6f4e56b78b8",
+					"jsonFile" : "target-QuickStudioLogicHelperplugin_init-Debug-275888e84b9956b37eca.json",
+					"name" : "QuickStudioLogicHelperplugin_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "QuickStudioLogicHelperplugin_init_autogen::@a133c4daf6f4e56b78b8",
+					"jsonFile" : "target-QuickStudioLogicHelperplugin_init_autogen-Debug-74ee12c572e60e665d16.json",
+					"name" : "QuickStudioLogicHelperplugin_init_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "QuickStudioLogicHelperplugin_init_autogen_timestamp_deps::@a133c4daf6f4e56b78b8",
+					"jsonFile" : "target-QuickStudioLogicHelperplugin_init_autogen_timestamp_deps-Debug-60a1d57014a01ac5a8e9.json",
+					"name" : "QuickStudioLogicHelperplugin_init_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "QuickStudioMultiText::@a7b8d61f767e497853c2",
+					"jsonFile" : "target-QuickStudioMultiText-Debug-c73005f3fa0a873cdcb0.json",
+					"name" : "QuickStudioMultiText",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "QuickStudioMultiText_autogen::@a7b8d61f767e497853c2",
+					"jsonFile" : "target-QuickStudioMultiText_autogen-Debug-d577fd246c22f5c24dfd.json",
+					"name" : "QuickStudioMultiText_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "QuickStudioMultiText_autogen_timestamp_deps::@a7b8d61f767e497853c2",
+					"jsonFile" : "target-QuickStudioMultiText_autogen_timestamp_deps-Debug-d496cf270d3e3afb97a0.json",
+					"name" : "QuickStudioMultiText_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "QuickStudioMultiText_qmltyperegistration::@a7b8d61f767e497853c2",
+					"jsonFile" : "target-QuickStudioMultiText_qmltyperegistration-Debug-539a9b02040521fd3937.json",
+					"name" : "QuickStudioMultiText_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "QuickStudioMultiText_resources_1::@a7b8d61f767e497853c2",
+					"jsonFile" : "target-QuickStudioMultiText_resources_1-Debug-2fa8af55766e2ff502a7.json",
+					"name" : "QuickStudioMultiText_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "QuickStudioMultiText_resources_2::@a7b8d61f767e497853c2",
+					"jsonFile" : "target-QuickStudioMultiText_resources_2-Debug-3c9bf2b0733a504ee8e4.json",
+					"name" : "QuickStudioMultiText_resources_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "QuickStudioMultiText_tooling::@a7b8d61f767e497853c2",
+					"jsonFile" : "target-QuickStudioMultiText_tooling-Debug-19b19d8eb14b5b7549b1.json",
+					"name" : "QuickStudioMultiText_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "QuickStudioMultiTextplugin::@a7b8d61f767e497853c2",
+					"jsonFile" : "target-QuickStudioMultiTextplugin-Debug-19317f7b8932c93808e6.json",
+					"name" : "QuickStudioMultiTextplugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "QuickStudioMultiTextplugin_autogen::@a7b8d61f767e497853c2",
+					"jsonFile" : "target-QuickStudioMultiTextplugin_autogen-Debug-c37db7ae7e954a9a5f05.json",
+					"name" : "QuickStudioMultiTextplugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "QuickStudioMultiTextplugin_autogen_timestamp_deps::@a7b8d61f767e497853c2",
+					"jsonFile" : "target-QuickStudioMultiTextplugin_autogen_timestamp_deps-Debug-08bc27a9d2a12b6df0c9.json",
+					"name" : "QuickStudioMultiTextplugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "QuickStudioMultiTextplugin_init::@a7b8d61f767e497853c2",
+					"jsonFile" : "target-QuickStudioMultiTextplugin_init-Debug-85d210375bba6ddec0e1.json",
+					"name" : "QuickStudioMultiTextplugin_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "QuickStudioMultiTextplugin_init_autogen::@a7b8d61f767e497853c2",
+					"jsonFile" : "target-QuickStudioMultiTextplugin_init_autogen-Debug-c16bf5d9517d21c2d3fc.json",
+					"name" : "QuickStudioMultiTextplugin_init_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "QuickStudioMultiTextplugin_init_autogen_timestamp_deps::@a7b8d61f767e497853c2",
+					"jsonFile" : "target-QuickStudioMultiTextplugin_init_autogen_timestamp_deps-Debug-6dc869b8a5013180eb5c.json",
+					"name" : "QuickStudioMultiTextplugin_init_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "QuickStudioUtils::@4bd307a73a027a216fab",
+					"jsonFile" : "target-QuickStudioUtils-Debug-1f02dd73ad18eaadf8e0.json",
+					"name" : "QuickStudioUtils",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "QuickStudioUtils_autogen::@4bd307a73a027a216fab",
+					"jsonFile" : "target-QuickStudioUtils_autogen-Debug-c18f79c91ae37a43c080.json",
+					"name" : "QuickStudioUtils_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "QuickStudioUtils_autogen_timestamp_deps::@4bd307a73a027a216fab",
+					"jsonFile" : "target-QuickStudioUtils_autogen_timestamp_deps-Debug-6f35c1d3ffec211be797.json",
+					"name" : "QuickStudioUtils_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "QuickStudioUtils_qmllint::@4bd307a73a027a216fab",
+					"jsonFile" : "target-QuickStudioUtils_qmllint-Debug-e4800169c695d0b4095b.json",
+					"name" : "QuickStudioUtils_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "QuickStudioUtils_qmllint_json::@4bd307a73a027a216fab",
+					"jsonFile" : "target-QuickStudioUtils_qmllint_json-Debug-735c3d595555be71364e.json",
+					"name" : "QuickStudioUtils_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "QuickStudioUtils_qmllint_module::@4bd307a73a027a216fab",
+					"jsonFile" : "target-QuickStudioUtils_qmllint_module-Debug-3ccd653f6cfbe52644ae.json",
+					"name" : "QuickStudioUtils_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "QuickStudioUtils_qmltyperegistration::@4bd307a73a027a216fab",
+					"jsonFile" : "target-QuickStudioUtils_qmltyperegistration-Debug-b32af6d7af0c938cbde6.json",
+					"name" : "QuickStudioUtils_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "QuickStudioUtils_resources_1::@4bd307a73a027a216fab",
+					"jsonFile" : "target-QuickStudioUtils_resources_1-Debug-cfa204066b7434939d4a.json",
+					"name" : "QuickStudioUtils_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "QuickStudioUtils_resources_2::@4bd307a73a027a216fab",
+					"jsonFile" : "target-QuickStudioUtils_resources_2-Debug-cf6c0168d7c31dc6ff3d.json",
+					"name" : "QuickStudioUtils_resources_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "QuickStudioUtils_tooling::@4bd307a73a027a216fab",
+					"jsonFile" : "target-QuickStudioUtils_tooling-Debug-de80c3f3fc2170e47593.json",
+					"name" : "QuickStudioUtils_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "QuickStudioUtilsplugin::@4bd307a73a027a216fab",
+					"jsonFile" : "target-QuickStudioUtilsplugin-Debug-55bd86e62b9631a4b04d.json",
+					"name" : "QuickStudioUtilsplugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "QuickStudioUtilsplugin_autogen::@4bd307a73a027a216fab",
+					"jsonFile" : "target-QuickStudioUtilsplugin_autogen-Debug-ab690dbbffa0785dbe01.json",
+					"name" : "QuickStudioUtilsplugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "QuickStudioUtilsplugin_autogen_timestamp_deps::@4bd307a73a027a216fab",
+					"jsonFile" : "target-QuickStudioUtilsplugin_autogen_timestamp_deps-Debug-ea057925c39d8a0ae7b7.json",
+					"name" : "QuickStudioUtilsplugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "QuickStudioUtilsplugin_init::@4bd307a73a027a216fab",
+					"jsonFile" : "target-QuickStudioUtilsplugin_init-Debug-ab6d4fba97782a2d84a2.json",
+					"name" : "QuickStudioUtilsplugin_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "QuickStudioUtilsplugin_init_autogen::@4bd307a73a027a216fab",
+					"jsonFile" : "target-QuickStudioUtilsplugin_init_autogen-Debug-2234d7476282c59e6e32.json",
+					"name" : "QuickStudioUtilsplugin_init_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "QuickStudioUtilsplugin_init_autogen_timestamp_deps::@4bd307a73a027a216fab",
+					"jsonFile" : "target-QuickStudioUtilsplugin_init_autogen_timestamp_deps-Debug-99fb48cb00f82f87f6fb.json",
+					"name" : "QuickStudioUtilsplugin_init_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "RealtimeClient::@2ca5650c074907edbd00",
+					"jsonFile" : "target-RealtimeClient-Debug-333223309c8f7ed157a0.json",
+					"name" : "RealtimeClient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RealtimeClientApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RealtimeClientApp-Debug-f368f336eca9d235fbc0.json",
+					"name" : "RealtimeClientApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RealtimeClientApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RealtimeClientApp_autogen-Debug-7d6210f7d1e3925f1414.json",
+					"name" : "RealtimeClientApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RealtimeClientApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RealtimeClientApp_autogen_timestamp_deps-Debug-6165fc7ffe5353320144.json",
+					"name" : "RealtimeClientApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RealtimeClientApp_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RealtimeClientApp_qmlimportscan-Debug-a939a271b162b4e46fb9.json",
+					"name" : "RealtimeClientApp_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RealtimeClientApp_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RealtimeClientApp_qmllint-Debug-c8f62b5d91bda31c547c.json",
+					"name" : "RealtimeClientApp_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RealtimeClientApp_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RealtimeClientApp_qmllint_json-Debug-618c6675f9e1c96c2d0c.json",
+					"name" : "RealtimeClientApp_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RealtimeClientApp_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RealtimeClientApp_qmllint_module-Debug-15ae25db0fcda635037d.json",
+					"name" : "RealtimeClientApp_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RealtimeClientApp_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RealtimeClientApp_qmltyperegistration-Debug-017ef7417de6466ab1ad.json",
+					"name" : "RealtimeClientApp_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RealtimeClientApp_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RealtimeClientApp_tooling-Debug-8d79e3b4a86b0eab0c18.json",
+					"name" : "RealtimeClientApp_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "RealtimeClient_autogen::@2ca5650c074907edbd00",
+					"jsonFile" : "target-RealtimeClient_autogen-Debug-95e9a3deac8a1e12034f.json",
+					"name" : "RealtimeClient_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "RealtimeClient_autogen_timestamp_deps::@2ca5650c074907edbd00",
+					"jsonFile" : "target-RealtimeClient_autogen_timestamp_deps-Debug-4e600502e86dbb33d7d7.json",
+					"name" : "RealtimeClient_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "RealtimeClient_qmllint::@2ca5650c074907edbd00",
+					"jsonFile" : "target-RealtimeClient_qmllint-Debug-64ad0fca275ac0893536.json",
+					"name" : "RealtimeClient_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "RealtimeClient_qmllint_json::@2ca5650c074907edbd00",
+					"jsonFile" : "target-RealtimeClient_qmllint_json-Debug-4855b42228659091f20b.json",
+					"name" : "RealtimeClient_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "RealtimeClient_qmllint_module::@2ca5650c074907edbd00",
+					"jsonFile" : "target-RealtimeClient_qmllint_module-Debug-a07365018d1cfc1d5c41.json",
+					"name" : "RealtimeClient_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "RealtimeClient_qmltyperegistration::@2ca5650c074907edbd00",
+					"jsonFile" : "target-RealtimeClient_qmltyperegistration-Debug-d4c212deb67744edb432.json",
+					"name" : "RealtimeClient_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "RealtimeClient_resources_1::@2ca5650c074907edbd00",
+					"jsonFile" : "target-RealtimeClient_resources_1-Debug-96c32ddc74339b4f2c4e.json",
+					"name" : "RealtimeClient_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "RealtimeClient_resources_2::@2ca5650c074907edbd00",
+					"jsonFile" : "target-RealtimeClient_resources_2-Debug-aefbdf86a94b99daa659.json",
+					"name" : "RealtimeClient_resources_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "RealtimeClient_tooling::@2ca5650c074907edbd00",
+					"jsonFile" : "target-RealtimeClient_tooling-Debug-152deb1fc3b6a0223248.json",
+					"name" : "RealtimeClient_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "RealtimeClientplugin::@2ca5650c074907edbd00",
+					"jsonFile" : "target-RealtimeClientplugin-Debug-48db38b05151095da381.json",
+					"name" : "RealtimeClientplugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "RealtimeClientplugin_autogen::@2ca5650c074907edbd00",
+					"jsonFile" : "target-RealtimeClientplugin_autogen-Debug-478e955c8a7a8ffa0718.json",
+					"name" : "RealtimeClientplugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "RealtimeClientplugin_autogen_timestamp_deps::@2ca5650c074907edbd00",
+					"jsonFile" : "target-RealtimeClientplugin_autogen_timestamp_deps-Debug-8d03be000dcdd1ed3450.json",
+					"name" : "RealtimeClientplugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "RealtimeClientplugin_init::@2ca5650c074907edbd00",
+					"jsonFile" : "target-RealtimeClientplugin_init-Debug-0483346019b080719520.json",
+					"name" : "RealtimeClientplugin_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "RealtimeClientplugin_init_autogen::@2ca5650c074907edbd00",
+					"jsonFile" : "target-RealtimeClientplugin_init_autogen-Debug-dceec11aa5e3bb60d414.json",
+					"name" : "RealtimeClientplugin_init_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "RealtimeClientplugin_init_autogen_timestamp_deps::@2ca5650c074907edbd00",
+					"jsonFile" : "target-RealtimeClientplugin_init_autogen_timestamp_deps-Debug-1e2985e54bb41d49986e.json",
+					"name" : "RealtimeClientplugin_init_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "all_qmllint::@b8ea75ca72e9d0096cda",
+					"jsonFile" : "target-all_qmllint-Debug-722e59789d113040eaaf.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "all_qmllint_json::@b8ea75ca72e9d0096cda",
+					"jsonFile" : "target-all_qmllint_json-Debug-39f94212826a94f69cc3.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "all_qmllint_module::@b8ea75ca72e9d0096cda",
+					"jsonFile" : "target-all_qmllint_module-Debug-0d046d2c05f74ef9590f.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "all_qmltyperegistrations::@b8ea75ca72e9d0096cda",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-9e2456322b8e493475ea.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "content::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content-Debug-1e210589b890f3374924.json",
+					"name" : "content",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "content_autogen::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_autogen-Debug-d2e8ddf8c06e1e58b196.json",
+					"name" : "content_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "content_autogen_timestamp_deps::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_autogen_timestamp_deps-Debug-a089ba4e7bd77aa3cd5c.json",
+					"name" : "content_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "content_qmllint::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmllint-Debug-9a9563f6ea5b692ccd5b.json",
+					"name" : "content_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "content_qmllint_json::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmllint_json-Debug-1a00736748bcee55c4d6.json",
+					"name" : "content_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "content_qmllint_module::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmllint_module-Debug-361df6171a38407728c5.json",
+					"name" : "content_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "content_qmltyperegistration::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_qmltyperegistration-Debug-f8e6de13c3ac2267bf78.json",
+					"name" : "content_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "content_resources_1::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_resources_1-Debug-625123a74517938b7ffb.json",
+					"name" : "content_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "content_resources_2::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_resources_2-Debug-eafbd5c0d0da129aa580.json",
+					"name" : "content_resources_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "content_tooling::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-content_tooling-Debug-64904fe457da092fd9d1.json",
+					"name" : "content_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "contentplugin::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin-Debug-4fdd61c96648f8286938.json",
+					"name" : "contentplugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "contentplugin_autogen::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin_autogen-Debug-a694e3411c7495ffa4cb.json",
+					"name" : "contentplugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "contentplugin_autogen_timestamp_deps::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin_autogen_timestamp_deps-Debug-d7b6bb29d006e32f5d34.json",
+					"name" : "contentplugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "contentplugin_init::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin_init-Debug-34343d4625ee74a98fd9.json",
+					"name" : "contentplugin_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "contentplugin_init_autogen::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin_init_autogen-Debug-13fa06219252a51c8b20.json",
+					"name" : "contentplugin_init_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "contentplugin_init_autogen_timestamp_deps::@73a38b9e525c9c2ae262",
+					"jsonFile" : "target-contentplugin_init_autogen_timestamp_deps-Debug-97c8dba9df6d3aed4a11.json",
+					"name" : "contentplugin_init_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug",
+		"source" : "C:/Users/Shantz/Documents/RealtimeClient"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

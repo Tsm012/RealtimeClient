@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Main/">
+    <file alias="main.qml">C:/Users/Shantz/Documents/RealtimeClient/main.qml</file>
+  </qresource>
+</RCC>
+

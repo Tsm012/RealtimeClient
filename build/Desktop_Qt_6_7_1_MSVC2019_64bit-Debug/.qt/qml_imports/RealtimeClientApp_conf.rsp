@@ -1,0 +1,15 @@
+-rootPath
+C:/Users/Shantz/Documents/RealtimeClient
+-cmake-output
+-output-file
+C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/RealtimeClientApp_conf.cmake
+-importPath
+C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/qml/Main
+-importPath
+C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/qml
+-importPath
+C:/Qt/6.7.1/msvc2019_64/./qml
+-qrcFiles
+C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/configuration.qrc
+C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qmake_Main.qrc
+C:/Users/Shantz/Documents/RealtimeClient/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/RealtimeClientApp_raw_qml_0.qrc
